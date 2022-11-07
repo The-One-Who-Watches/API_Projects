@@ -1,0 +1,38 @@
+.card {
+  width: 50%;
+  border-radius: 10px;
+  box-shadow: 5px 10px 0px 0px rgba(0, 0, 0, 0.5);
+  justify-items: center;
+
+  background-color: aquamarine;
+}
+
+.card-container {
+  justify-content: center;
+  display: flex;
+  margin: 20px;
+}
+
+.name {
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.address {
+  text-align: center;
+  font-size: large;
+  font-style: italic;
+}
+
+.image {
+  width: 300px;
+  height: 300px;
+  margin: 5%;
+}
+
+.description {
+  width: 75%;
+  text-align: center;
+  margin: auto;
+}
